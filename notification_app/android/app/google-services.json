@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "188158089921",
+    "project_id": "noty-e846b",
+    "storage_bucket": "noty-e846b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188158089921:android:5c85686a916683038b9240",
+        "android_client_info": {
+          "package_name": "com.example.notification_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQZqfRu3RuEwXqGUDnO5yxE9nM3aOmpOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
